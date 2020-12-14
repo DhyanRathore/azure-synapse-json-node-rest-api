@@ -12,5 +12,24 @@
   "devDependencies": {},
   "main": "index.js",
   "author": "Dhyanendra Singh Rathore",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhyanRathore/azure-synapse-json-node-rest-api.git"
+  },
+  "keywords": [
+    "synapse",
+    "analytics",
+    "json",
+    "azure",
+    "functions",
+    "tedious",
+    "rest",
+    "api",
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/DhyanRathore/azure-synapse-json-node-rest-api/issues"
+  },
+  "homepage": "https://github.com/DhyanRathore/azure-synapse-json-node-rest-api#readme"
 }
