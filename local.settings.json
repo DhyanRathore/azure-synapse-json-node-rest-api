@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "SYNAPSE_SERVER_FQDN": "azuresqljsonserver.database.windows.net",
+    "SYNAPSE_USER": "jsonadmin",
+    "SYNAPSE_USER_PASSWORD": "pa$$word123",
+    "SYNAPSE_DATABASE": "azureSqlDB"
+  }
+}

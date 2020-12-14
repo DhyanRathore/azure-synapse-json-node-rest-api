@@ -1,0 +1,16 @@
+{
+  "name": "synapsejson",
+  "version": "1.0.0",
+  "description": "Azure Function: Node.js REST API to read data from Azure Synapse Analytics with query parameter and return results as JSON",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "tedious": "^9.2.1"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "author": "Dhyanendra Singh Rathore",
+  "license": "ISC"
+}
