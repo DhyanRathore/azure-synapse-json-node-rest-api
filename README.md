@@ -21,7 +21,9 @@ The code is triggered when Azure Functions receives an HTTP request. The functio
 
 ## Motivation
 
-Azure SQL Database and SQL Server 2016 (and later) supports an in-built feature for formatting query results as JSON. Then JSON support for Azure SQL data warehouse (currently Azure Synapse Analytics) was announced. Synapse Analytics supports querying and manipulating JSON data. However, there is no out-of-the-box support in Synapse to return SQL query results as JSON. This project was kick-started to create an endpoint to query and get JSON data from Synapse Analytics for a handful of in-house applications.
+Azure SQL Database and SQL Server 2016 (and later) supports an in-built feature for formatting query results as JSON. Then JSON support for Azure SQL data warehouse (currently Azure Synapse Analytics) was announced. Synapse Analytics supports querying and manipulating JSON data. However, there is no out-of-the-box support in Synapse to return SQL query results as JSON.
+
+This project was kick-started to create an endpoint to query and get JSON data from Synapse Analytics for a handful of in-house applications.
 
 ## Features
 
